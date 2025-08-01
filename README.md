@@ -519,6 +519,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | IMR | Inmate Medical record | | |
 | IMS | Intelligence Management Service | | |
 | IMSU | Incident Management Support Unit | | |
+| INTBDTTO | Information not to be disclosed to the offender | | |
 | INView | INView | | A system which supports the delivery of efficient and effective custodial services by providing cost and resource use information and reporting for services delivered in public sector prisons |
 | IOCCO | Interception of Communications Commissioner's Office | | |
 | IOD | Information Operations Division | | The Information Operations Division are responsible for:- Records Management - Managing the department's corporate record- FOI Act compliance - Ensuring FOI requests are dealt with in accordance with the Act.- Knowledge & Information Mgr - Building good Information Management and Knowledge Sharing- Information Assurance - Building Information Assurance against HMG mandated standards and developing a culture of good information handling- Data Protection Act Compliance - Ensuring personal data is handled lawfully / securely and that privacy is maintained |
